@@ -135,7 +135,7 @@ A continuación se muestran las capturas de pantalla que demuestran que **Odoo**
 
 ### Odoo funcionando:  
 
-![Odoo Home]()
+![Odoo Home](https://github.com/JavierP5/Tarea1Recuperacion/blob/main/Captura%20desde%202025-04-10%2012-36-21.png)  
 
 ### Módulo instalado en Odoo:  
 
