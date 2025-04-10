@@ -133,17 +133,17 @@ ports:
 
 A continuación se muestran las capturas de pantalla que demuestran que **Odoo** y **PgAdmin** se han instalado y configurado correctamente.  
 
-### Odoo funcionando:
+### Odoo funcionando:  
 
-![Odoo Home]
+![Odoo Home]()
 
-### Módulo instalado en Odoo:
+### Módulo instalado en Odoo:  
 
 ![Módulo en Odoo]
 
-### Conexión a la base de datos en PgAdmin:
+### Conexión a la base de datos en PgAdmin:  
 
-![PgAdmin Conectado]()
+![PgAdmin Conectado](https://github.com/JavierP5/Tarea1Recuperacion/blob/main/Captura%20desde%202025-04-10%2012-28-18.png)  
 
 
 
