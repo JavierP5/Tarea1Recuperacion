@@ -139,7 +139,8 @@ A continuación se muestran las capturas de pantalla que demuestran que **Odoo**
 
 ### Módulo instalado en Odoo:  
 
-![Módulo en Odoo]
+![Módulo en Odoo](https://github.com/JavierP5/Tarea1Recuperacion/blob/main/Captura%20desde%202025-04-10%2012-58-10.png)  
+
 
 ### Conexión a la base de datos en PgAdmin:  
 
