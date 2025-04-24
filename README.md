@@ -146,6 +146,10 @@ A continuación se muestran las capturas de pantalla que demuestran que **Odoo**
 
 ![PgAdmin Conectado](https://github.com/JavierP5/Tarea1Recuperacion/blob/main/Captura%20desde%202025-04-10%2012-28-18.png)  
 
+### Conexión Odoo PgAdmin:  
+
+![Odoo conectado a PgAdmin](https://github.com/JavierP5/Tarea1Recuperacion/blob/main/unnamed.png)  
+
 
 
 
